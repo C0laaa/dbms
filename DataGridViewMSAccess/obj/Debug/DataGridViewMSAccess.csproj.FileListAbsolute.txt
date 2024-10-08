@@ -1,0 +1,13 @@
+C:\Users\Cola\Documents\045-RCRAMOS\DataGridViewMSAccess\DataGridViewMSAccess\bin\Debug\DataGridViewMSAccess.exe.config
+C:\Users\Cola\Documents\045-RCRAMOS\DataGridViewMSAccess\DataGridViewMSAccess\bin\Debug\DataGridViewMSAccess.exe
+C:\Users\Cola\Documents\045-RCRAMOS\DataGridViewMSAccess\DataGridViewMSAccess\bin\Debug\DataGridViewMSAccess.pdb
+C:\Users\Cola\Documents\045-RCRAMOS\DataGridViewMSAccess\DataGridViewMSAccess\bin\Debug\System.Data.OleDb.dll
+C:\Users\Cola\Documents\045-RCRAMOS\DataGridViewMSAccess\DataGridViewMSAccess\bin\Debug\System.Data.OleDb.xml
+C:\Users\Cola\Documents\045-RCRAMOS\DataGridViewMSAccess\DataGridViewMSAccess\obj\Debug\DataGridViewMSAccess.csproj.AssemblyReference.cache
+C:\Users\Cola\Documents\045-RCRAMOS\DataGridViewMSAccess\DataGridViewMSAccess\obj\Debug\DataGridViewMSAccess.Form1.resources
+C:\Users\Cola\Documents\045-RCRAMOS\DataGridViewMSAccess\DataGridViewMSAccess\obj\Debug\DataGridViewMSAccess.Properties.Resources.resources
+C:\Users\Cola\Documents\045-RCRAMOS\DataGridViewMSAccess\DataGridViewMSAccess\obj\Debug\DataGridViewMSAccess.csproj.GenerateResource.cache
+C:\Users\Cola\Documents\045-RCRAMOS\DataGridViewMSAccess\DataGridViewMSAccess\obj\Debug\DataGridViewMSAccess.csproj.CoreCompileInputs.cache
+C:\Users\Cola\Documents\045-RCRAMOS\DataGridViewMSAccess\DataGridViewMSAccess\obj\Debug\DataGrid.E1A8B98F.Up2Date
+C:\Users\Cola\Documents\045-RCRAMOS\DataGridViewMSAccess\DataGridViewMSAccess\obj\Debug\DataGridViewMSAccess.exe
+C:\Users\Cola\Documents\045-RCRAMOS\DataGridViewMSAccess\DataGridViewMSAccess\obj\Debug\DataGridViewMSAccess.pdb
